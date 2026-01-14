@@ -1,0 +1,2018 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 375px;
+  position: relative;
+}
+
+.index .header-and-hero-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .interior-hero-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--blue-chalk);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  padding: 120px 0px 64px;
+  position: relative;
+  width: 100%;
+}
+
+.index .content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.index .text-content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index .eyebrow-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.index .ellipse-1-1 {
+  background-color: var(--moody-blue);
+  border-radius: 6px;
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.index .page-title {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .well-be-back-shortly-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 46.2px;
+  position: relative;
+}
+
+.index .flex-container-555247699 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 290px;
+}
+
+.index .text-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 400;
+  line-height: 28.0px;
+  position: relative;
+}
+
+.index .span-1 {
+  font-weight: 300;
+}
+
+.index .span2-1 {
+  font-weight: 300;
+  text-decoration: underline;
+}
+
+.index .under-maintenance-mobile-1 {
+  align-self: stretch;
+  aspect-ratio: 1.08;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.index .header-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.index .header-3 {
+  align-self: stretch;
+  border-color: var(--moody-blue);
+  border-top-style: solid;
+  border-top-width: 6px;
+  height: 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .logo-1 {
+  height: 28px;
+  left: 27px;
+  position: relative;
+  top: calc(50.00% - 11px);
+  width: 145px;
+}
+
+.index .symbol-container-1 {
+  background-image: url(../img/vector-2.svg);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23.86%;
+}
+
+.index .wordmark-container-1 {
+  display: flex;
+  height: 93.48%;
+  left: 30.15%;
+  position: absolute;
+  top: 3.26%;
+  width: 69.85%;
+}
+
+.index .wordmark-1 {
+  background-image: url(../img/vector-3.svg);
+  background-size: 100% 100%;
+  flex: 1;
+  width: 101.4px;
+}
+
+.index .body-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  padding: 64px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.index .card-grid-item-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-132131864-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.index .need-help-1 {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .frame-1321318-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.index .customer-support-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 35.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .if-you-need-immediat-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 23.8px;
+  position: relative;
+}
+
+.index .frame-132131863-2 {
+  gap: 8px;
+}
+
+.index .support-phone-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .usa-1-877-504-0091-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 21.0px;
+  position: relative;
+}
+
+.index .support-email-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .aptumcom-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 21.0px;
+  position: relative;
+  text-decoration: underline;
+}
+
+.index .sales-email-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .vector-1 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.index .billing-assistance-1 {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .contact-billing-or-collections-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 35.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .for-billing-related-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 23.8px;
+  position: relative;
+}
+
+.index .billing-phone-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .usa-canada-latin-a-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 21.0px;
+  position: relative;
+}
+
+.index .billing-email-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .collections-email-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .direct-access-1 {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .log-in-to-aptum-portals-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 35.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .even-while-the-main-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 23.8px;
+  position: relative;
+}
+
+.index .frame-132131863-3 {
+  gap: 24px;
+}
+
+.index .frame-1321318634-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.index .aptum-portal-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .manage-your-azure-environment-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 21.0px;
+  position: relative;
+}
+
+.index .button-2 {
+  align-items: center;
+  background-color: var(--blue-violet);
+  border-radius: 100px;
+  display: inline-flex;
+  gap: 4px;
+  height: 30px;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+}
+
+.index .button-label-2 {
+  color: var(--white);
+  font-weight: 500;
+  line-height: 14px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .my-aptum-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .view-invoices-open-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 21.0px;
+  position: relative;
+}
+
+.index .colocation-control-panel-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .manage-your-colocation-services-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 21.0px;
+  position: relative;
+}
+
+.index .live-system-updates-1 {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .check-current-service-status-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 35.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .you-can-view-real-ti-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 23.8px;
+  position: relative;
+}
+
+.index .aptum-service-status-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .our-locations-1 {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .aptum-offices-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 35.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .aptum-operates-globa-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 23.8px;
+  position: relative;
+}
+
+.index .usa-miami-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .usa-los-angeles-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .canada-toronto-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .uk-portsmouth-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .building-5000-langs-1 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 21.0px;
+  position: relative;
+}
+
+.index .footer-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--woodsmoke);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 64px;
+  overflow: hidden;
+  padding: 24px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.index .copyright-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -393.00px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 100%;
+}
+
+.index .address {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 21.0px;
+  position: relative;
+}
+
+.index .frame-132131863 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+/* screen - website-maintenance-notice- */
+
+.website-maintenance-notice {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 768px;
+  position: relative;
+}
+
+.website-maintenance-notice .header-and-hero-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .interior-hero-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--blue-chalk);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  padding: 120px 0px 64px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  justify-content: center;
+  padding: 0px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .text-content-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .eyebrow-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.website-maintenance-notice .ellipse-1-2 {
+  background-color: var(--moody-blue);
+  border-radius: 6px;
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.website-maintenance-notice .service-update-1 {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice .well-be-back-shortly-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 61.6px;
+  position: relative;
+}
+
+.website-maintenance-notice .flex-container-558527642 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 166px;
+}
+
+.website-maintenance-notice .text-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 400;
+  line-height: 30.8px;
+  position: relative;
+}
+
+.website-maintenance-notice .span-2 {
+  font-weight: 300;
+}
+
+.website-maintenance-notice .span2-2 {
+  font-weight: 300;
+  text-decoration: underline;
+}
+
+.website-maintenance-notice .under-maintenance-mobile-1-1 {
+  align-self: stretch;
+  aspect-ratio: 1.08;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .header-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.website-maintenance-notice .header-5 {
+  align-self: stretch;
+  border-color: var(--moody-blue);
+  border-top-style: solid;
+  border-top-width: 6px;
+  height: 80px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .logo-2 {
+  height: 28px;
+  left: 27px;
+  position: relative;
+  top: calc(50.00% - 11px);
+  width: 145px;
+}
+
+.website-maintenance-notice .symbol-container-2 {
+  background-image: url(../img/vector-2.svg);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23.86%;
+}
+
+.website-maintenance-notice .wordmark-container-2 {
+  display: flex;
+  height: 93.48%;
+  left: 30.15%;
+  position: absolute;
+  top: 3.26%;
+  width: 69.85%;
+}
+
+.website-maintenance-notice .wordmark-2 {
+  background-image: url(../img/vector-3.svg);
+  background-size: 100% 100%;
+  flex: 1;
+  width: 101.4px;
+}
+
+.website-maintenance-notice .body-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 64px;
+  padding: 80px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .card-grid-item-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .frame-132131864-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .need-help-2 {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice .frame-1321318-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .customer-support-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .if-you-need-immediat-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 25.2px;
+  position: relative;
+}
+
+.website-maintenance-notice .frame-1321318637-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .frame-132131863-4 {
+  gap: 16px;
+}
+
+.website-maintenance-notice .support-phone-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .usa-1-877-504-0091-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice .support-email-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .aptumcom-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+  text-decoration: underline;
+}
+
+.website-maintenance-notice .sales-email-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .vector-2 {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .billing-assistance-2 {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice .contact-billing-or-collections-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .for-billing-related-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 25.2px;
+  position: relative;
+}
+
+.website-maintenance-notice .billing-phone-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .usa-canada-latin-a-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice .billing-email-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .collections-email-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .direct-access-2 {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice .log-in-to-aptum-portals-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .even-while-the-main-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 25.2px;
+  position: relative;
+}
+
+.website-maintenance-notice .frame-132131863-5 {
+  gap: 24px;
+}
+
+.website-maintenance-notice .aptum-portal-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .manage-your-azure-environment-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice .button-3 {
+  align-items: center;
+  background-color: var(--blue-violet);
+  border-radius: 100px;
+  display: inline-flex;
+  gap: 4px;
+  height: 30px;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+}
+
+.website-maintenance-notice .button-label-3 {
+  color: var(--white);
+  font-weight: 500;
+  line-height: 14px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice .my-aptum-3 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .view-invoices-open-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice .colocation-control-panel-3 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .manage-your-colocation-services-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice .live-system-updates-2 {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice .check-current-service-status-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .you-can-view-real-ti-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 25.2px;
+  position: relative;
+}
+
+.website-maintenance-notice .frame-1321318634-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .aptum-service-status-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .our-locations-2 {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice .aptum-offices-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .aptum-operates-globa-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 25.2px;
+  position: relative;
+}
+
+.website-maintenance-notice .usa-miami-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .usa-los-angeles-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .canada-toronto-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .uk-portsmouth-2 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice .building-5000-langs-2 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice .footer-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--woodsmoke);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 64px;
+  padding: 24px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .copyright-2 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice .address {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice .frame-132131863 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 32px;
+  position: relative;
+  width: 100%;
+}
+/* screen - website-maintenance-notice-1200 */
+
+.website-maintenance-notice-1200 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 1200px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .header-and-hero {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .interior-hero {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--blue-chalk);
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 840px;
+  justify-content: center;
+  padding: 0px 680px 0px 120px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .text-content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .eyebrow {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .ellipse-1 {
+  background-color: var(--moody-blue);
+  border-radius: 6px;
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.website-maintenance-notice-1200 .service-update {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice-1200 .well-be-back-shortly {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 61.6px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .flex-container-558527797 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 259px;
+}
+
+.website-maintenance-notice-1200 .text {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 400;
+  line-height: 30.8px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .span {
+  font-weight: 300;
+}
+
+.website-maintenance-notice-1200 .span2 {
+  font-weight: 300;
+  text-decoration: underline;
+}
+
+.website-maintenance-notice-1200 .button-1 {
+  align-items: center;
+  border-radius: 100px;
+  display: inline-flex;
+  gap: 8px;
+  height: 16px;
+  justify-content: center;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .button-label-1 {
+  color: var(--abbey);
+  font-weight: 500;
+  line-height: 16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice-1200 .functional-icon-arrow-down {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.website-maintenance-notice-1200 .under-maintenance-1 {
+  aspect-ratio: 0.74;
+  height: 840px;
+  object-fit: cover;
+  position: absolute;
+  right: 0;
+  top: calc(50.00% - 420px);
+  width: 620px;
+}
+
+.website-maintenance-notice-1200 .header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .header-1 {
+  align-self: stretch;
+  border-color: var(--moody-blue);
+  border-top-style: solid;
+  border-top-width: 6px;
+  height: 88px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .logo {
+  height: 28px;
+  left: 36px;
+  position: relative;
+  top: calc(50.00% - 14px);
+  width: 145px;
+}
+
+.website-maintenance-notice-1200 .symbol-container {
+  background-image: url(../img/vector.svg);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23.86%;
+}
+
+.website-maintenance-notice-1200 .wordmark-container {
+  display: flex;
+  height: 93.48%;
+  left: 30.15%;
+  position: absolute;
+  top: 3.26%;
+  width: 69.85%;
+}
+
+.website-maintenance-notice-1200 .wordmark {
+  background-image: url(../img/vector-1.svg);
+  background-size: 100% 100%;
+  flex: 1;
+  width: 101.4px;
+}
+
+.website-maintenance-notice-1200 .body {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 64px;
+  padding: 120px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .card-grid-item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .frame-132131864 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .need-help {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice-1200 .frame-1321318 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .customer-support {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .if-you-need-immediat {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 25.2px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .frame-1321318637 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 24px;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .frame-132131863 {
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border-radius: 8px;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  padding: 32px;
+}
+
+.website-maintenance-notice-1200 .usa-1-877-504-0091 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .aptumcom {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+  text-decoration: underline;
+}
+
+.website-maintenance-notice-1200 .sales-email {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .vector {
+  align-self: stretch;
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .billing-assistance {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice-1200 .contact-billing-or-collections {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .for-billing-related {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 25.2px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .billing-phone {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+}
+
+.website-maintenance-notice-1200 .usa-canada-latin-a {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .billing-email {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+}
+
+.website-maintenance-notice-1200 .collections-email {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .direct-access {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice-1200 .log-in-to-aptum-portals {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .even-while-the-main {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 25.2px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .frame-132131863-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 32px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .aptum-portal {
+  line-height: 30.8px;
+}
+
+.website-maintenance-notice-1200 .manage-your-azure-environment {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .button {
+  align-items: center;
+  background-color: var(--blue-violet);
+  border-radius: 100px;
+  display: inline-flex;
+  gap: 4px;
+  height: 30px;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .button-label {
+  color: var(--white);
+  font-weight: 500;
+  line-height: 14px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice-1200 .frame-1321318632 {
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border-radius: 8px;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 24px;
+  padding: 32px;
+}
+
+.website-maintenance-notice-1200 .my-aptum {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .view-invoices-open {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .colocation-control-panel {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .manage-your-colocation-services {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .live-system-updates {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice-1200 .check-current-service-status {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 44.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .you-can-view-real-ti {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 25.2px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .frame-1321318631 {
+  background-color: var(--black-haze);
+  border-radius: 8px;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 24px;
+  padding: 32px;
+}
+
+.website-maintenance-notice-1200 .frame-1321318634 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .aptum-service-status {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .frame-1321318632-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 24px;
+  opacity: 0;
+  padding: 32px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .my-aptum-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .frame-1321318633 {
+  align-self: stretch;
+  background-color: var(--black-haze);
+  border-radius: 8px;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  opacity: 0;
+  padding: 32px;
+}
+
+.website-maintenance-notice-1200 .colocation-control-panel-1 {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .our-locations {
+  letter-spacing: -0.17px;
+  line-height: 17px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.website-maintenance-notice-1200 .aptum-offices {
+  line-height: 44.0px;
+}
+
+.website-maintenance-notice-1200 .aptum-operates-globa {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 25.2px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .usa-miami {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .address {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .usa-los-angeles {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .canada-toronto {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .uk-portsmouth {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .building-5000-langs {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .footer {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--woodsmoke);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 64px;
+  padding: 24px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .copyright {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 100%;
+}
+
+.website-maintenance-notice-1200 .address-3 {
+  align-self: stretch;
+  color: var(--abbey);
+  font-weight: 400;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .aptum {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .billing {
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .frame {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.website-maintenance-notice-1200 .support {
+  align-self: stretch;
+  color: var(--woodsmoke);
+  font-weight: 300;
+  line-height: 30.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+@media screen and (max-width: 767px) {
+  .screen.website-maintenance-notice-1200 { 
+    display: none;
+   }
+  .screen.website-maintenance-notice { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+  .screen.website-maintenance-notice-1200 { 
+    display: none;
+   }
+  .screen.index { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.website-maintenance-notice { 
+    display: none;
+   }
+}

@@ -1,0 +1,137 @@
+:root { 
+  --abbey: #515357;
+  --black: #000000;
+  --black-haze: #f6f6f8;
+  --blue-chalk: #e7e6ff;
+  --blue-violet: #655bd9;
+  --mischka: #d0d1de;
+  --moody-blue: #7d7ae8;
+  --white: #ffffff;
+  --woodsmoke: #101010;
+ 
+  --font-size-32px: 32px;
+  --font-size-40px: 40px;
+  --font-size-42px: 42px;
+  --font-size-56px: 56px;
+  --font-size-l: 17px;
+  --font-size-m: 16px;
+  --font-size-s: 15px;
+  --font-size-xl: 18px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 20px;
+  --font-size-xxxl: 22px;
+ 
+  --font-family-geist: "Geist", Helvetica;
+  --font-family-geist_mono: "Geist Mono", Helvetica;
+}
+.h1desktop {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-56px);
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: -1.68px;
+}
+
+.h1mobile {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-42px);
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: -1.26px;
+}
+
+.h2desktop {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-40px);
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: -1.2px;
+}
+
+.h2mobile {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-32px);
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: -0.96px;
+}
+
+.h4desktoplight {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+.h4mobilelight {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+.p-largedesktopregular {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.18px;
+}
+
+.p-largemobileregular {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.17px;
+}
+
+.pdesktopregular {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.16px;
+}
+
+.pdesktopmedium {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.16px;
+}
+
+.pmobileregular {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.15px;
+}
+
+.buttonsmall {
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: -0.14px;
+}
+
+.geistmono-normal-woodsmoke-17px {
+  color: var(--woodsmoke);
+  font-family: var(--font-family-geist_mono);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.geist-normal-mischka-14px {
+  color: var(--mischka);
+  font-family: var(--font-family-geist);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
